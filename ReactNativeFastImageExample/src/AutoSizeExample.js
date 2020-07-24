@@ -25,8 +25,8 @@ class AutoSizingImage extends Component {
 
     getHeight = () => {
         if (!this.state.height) return this.props.defaultHeight
-        const ratio = this.state.height / this.state.width
-        const height = this.props.width * ratio
+        const ratio_ = this.state.height / this.state.width
+        const height = this.props.width * ratio_
         return height
     }
 
