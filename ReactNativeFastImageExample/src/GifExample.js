@@ -23,8 +23,8 @@ const GifExample = ({ onPressReload, bust }) => (
 const styles = StyleSheet.create({
     image: {
         backgroundColor: '#ddd',
-        margin: 22,
-        height: 120,
+        margin: 12,
+        height: 130,
         width: 120,
         flex: 0,
     },

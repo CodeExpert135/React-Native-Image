@@ -7,6 +7,6 @@ export default ({ text, style, children }) => (
 
 const styles = StyleSheet.create({
     style: {
-        color: '#333',
+        color: '#222',
     },
 })
