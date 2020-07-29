@@ -15,13 +15,13 @@ class AutoSizingImage extends Component {
         width: 5,
     }
 
-    onLoad = e => {
-        const {
-            nativeEvent: { width, height },
-        } = e
-        this.setState({ width, height })
-        if (this.props.onLoad) this.props.onLoad(e)
-    }
+//    onLoad = e => {
+//        const {
+//            nativeEvent: { width, height },
+//        } = e
+//        this.setState({ width, height })
+//        if (this.props.onLoad) this.props.onLoad(e)
+//    }
 
     getHeight = () => {
         if (!this.state.height) return this.props.defaultHeight
