@@ -16,7 +16,7 @@ const TintColorExample = ({ onPressReload }) => (
         <SectionFlex onPress={onPressReload}>
             <FastImage
                 style={styles.image}
-                tintColor={'green'}
+                tintColor={'blue'}
                 source={LogoImage}
             />
             <FastImage
@@ -26,7 +26,7 @@ const TintColorExample = ({ onPressReload }) => (
             />
             <FastImage
                 style={styles.image}
-                tintColor={'rgba(0,0,0,0.5)'}
+                tintColor={'rgba(0,0,0,0.6)'}
                 source={LogoImage}
             />
         </SectionFlex>
