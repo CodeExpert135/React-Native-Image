@@ -62,13 +62,13 @@ const styles = StyleSheet.create({
     image: {
         flex: 1,
         height: 105,
-        backgroundColor: '#ddd',
+        backgroundColor: '#eee',
         margin: 10,
     },
     container: {
         flex: 1,
         alignItems: 'stretch',
-        backgroundColor: '#fff',
+        backgroundColor: '#aaa',
     },
     scrollContainer: {
         marginTop: STATUS_BAR_HEIGHT,
