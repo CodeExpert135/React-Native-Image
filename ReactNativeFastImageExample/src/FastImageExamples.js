@@ -54,10 +54,10 @@ const styles = StyleSheet.create({
     titleText: {
         fontWeight: '700',
         marginBottom: 20,
-        color: '#222',
+        color: '#333',
     },
     contentContainer: {
-        marginTop: 30,
+        marginTop: 33,
     },
     image: {
         flex: 1,
