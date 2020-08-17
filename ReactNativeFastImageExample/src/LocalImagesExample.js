@@ -107,9 +107,9 @@ const styles = StyleSheet.create({
     imageSquare: {
         alignItems: 'center',
         justifyContent: 'center',
-        height: 100,
+        height: 101,
         backgroundColor: '#ddd',
-        margin: 20,
+        margin: 21,
         marginTop: 10,
         width: 100,
         flex: 0,
