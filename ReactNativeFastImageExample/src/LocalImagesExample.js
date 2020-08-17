@@ -101,8 +101,8 @@ const styles = StyleSheet.create({
         backgroundColor: '#eee',
         justifyContent: 'center',
         alignItems: 'center',
-        paddingTop: 11,
-        paddingBottom: 11,
+        paddingTop: 15,
+        paddingBottom: 15,
     },
     imageSquare: {
         alignItems: 'center',
