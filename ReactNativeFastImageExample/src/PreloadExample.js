@@ -58,10 +58,10 @@ class PreloadExample extends Component {
                         <View style={styles.image} />
                     )}
                     <View style={styles.buttons}>
-                        <View style={{ flex: 2 }}>
+                        <View style={{ flex: 3 }}>
                             <Button text="Bust" onPress={this.bustCache} />
                         </View>
-                        <View style={{ flex: 2 }}>
+                        <View style={{ flex: 3 }}>
                             <Button text="Preload" onPress={this.preload} />
                         </View>
                         <View style={{ flex: 1 }}>
