@@ -61,8 +61,8 @@ const styles = StyleSheet.create({
     },
     image: {
         flex: 1,
-        height: 105,
-        backgroundColor: '#eee',
+        height: 110,
+        backgroundColor: '#ggg',
         margin: 10,
     },
     container: {
@@ -75,7 +75,7 @@ const styles = StyleSheet.create({
     },
     scrollContentContainer: {
         alignItems: 'stretch',
-        flex: 0,
+        flex: 1,
     },
 })
 
