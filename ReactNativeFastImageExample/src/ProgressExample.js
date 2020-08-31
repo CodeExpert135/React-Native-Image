@@ -29,7 +29,7 @@ class ProgressExample extends Component {
                     style={{
                         flexDirection: 'column',
                         alignItems: 'center',
-                        paddingBottom: 20,
+                        paddingBottom: 25,
                     }}
                 >
                     <FastImage
@@ -70,10 +70,10 @@ class ProgressExample extends Component {
 
 const styles = StyleSheet.create({
     image: {
-        height: 100,
+        height: 105,
         backgroundColor: '#ddd',
-        margin: 20,
-        width: 100,
+        margin: 25,
+        width: 105,
         flex: 0,
     },
 })
