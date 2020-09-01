@@ -5,9 +5,9 @@ export default ({ children }) => <View style={styles.section}>{children}</View>
 
 const styles = StyleSheet.create({
     section: {
-        marginTop: 20,
-        marginBottom: 15,
-        marginLeft: 35,
-        marginRight: 40,
+        marginTop: 25,
+        marginBottom: 20,
+        marginLeft: 30,
+        marginRight: 45,
     },
 })
