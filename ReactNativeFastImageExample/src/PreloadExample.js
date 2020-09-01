@@ -81,15 +81,15 @@ const styles = StyleSheet.create({
     },
     buttons: {
         flexDirection: 'row',
-        marginHorizontal: 20,
-        marginBottom: 10,
+        marginHorizontal: 25,
+        marginBottom: 15,
     },
     image: {
         backgroundColor: '#ddd',
-        margin: 20,
-        marginBottom: 10,
-        height: 100,
-        width: 100,
+        margin: 25,
+        marginBottom: 15,
+        height: 105,
+        width: 105,
     },
 })
 
