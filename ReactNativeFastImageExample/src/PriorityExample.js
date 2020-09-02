@@ -50,10 +50,10 @@ const PriorityExample = ({ onPressReload, bust }) => (
 const styles = StyleSheet.create({
     image: {
         flex: 1,
-        height: 150,
+        height: 100,
         backgroundColor: '#ddd',
-        margin: 15,
-        marginVertical: 25,
+        margin: 10,
+        marginVertical: 20,
     },
 })
 
