@@ -54,7 +54,7 @@ const AutoSizeExample = ({ onPressReload, bust }) => (
         <SectionFlex onPress={onPressReload}>
             <AutoSizingImage
                 style={styles.image}
-                width={200}
+                width={250}
                 source={{ uri: GIF_URL + bust }}
             />
         </SectionFlex>
@@ -63,8 +63,8 @@ const AutoSizeExample = ({ onPressReload, bust }) => (
 
 const styles = StyleSheet.create({
     image: {
-        backgroundColor: '#ddd',
-        margin: 35,
+        backgroundColor: '#eee',
+        margin: 40,
         flex: 0,
     },
 })
