@@ -52,7 +52,7 @@ FastImageExample.navigationOptions = {
 
 const styles = StyleSheet.create({
     titleText: {
-        fontWeight: '700',
+        fontWeight: '600',
         marginBottom: 20,
         color: '#333',
     },
@@ -61,14 +61,14 @@ const styles = StyleSheet.create({
     },
     image: {
         flex: 1,
-        height: 110,
+        height: 100,
         backgroundColor: '#ggg',
         margin: 10,
     },
     container: {
         flex: 1,
         alignItems: 'stretch',
-        backgroundColor: '#aaa',
+        backgroundColor: '#bbb',
     },
     scrollContainer: {
         marginTop: STATUS_BAR_HEIGHT,
