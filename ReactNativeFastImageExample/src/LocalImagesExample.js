@@ -95,13 +95,13 @@ const styles = StyleSheet.create({
     row: {
         justifyContent: 'center',
         alignItems: 'center',
-        marginBottom: 20,
+        marginBottom: 30,
     },
     container: {
         backgroundColor: '#eee',
         justifyContent: 'center',
         alignItems: 'center',
-        paddingTop: 10,
+        paddingTop: 20,
         paddingBottom: 20,
     },
     imageSquare: {
@@ -109,7 +109,7 @@ const styles = StyleSheet.create({
         justifyContent: 'center',
         height: 105,
         backgroundColor: '#ddd',
-        margin: 21,
+        margin: 20,
         marginTop: 10,
         width: 105,
         flex: 0,
